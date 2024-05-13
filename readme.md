@@ -900,6 +900,7 @@
 - [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
 - [Astrophotography](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 - [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
+- [Open WebTech](https://github.com/open-webtech/awesome-webtech#readme) - List of innovative, open web technologies, curated by an inclusive community.
 
 ## Related
 
